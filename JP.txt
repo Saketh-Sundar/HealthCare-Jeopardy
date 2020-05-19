@@ -1,0 +1,25 @@
+1#Wild Card#100#In this condition, blood sugar levels are controlled with lifestyle changes or insulin.#a. What is Diabetes|b. What is High Blood Pressure|c. What is Heart Attack#a
+1#Wild Card#200#Doing relaxation exercises can help you manage this risk factor for heart disease.#a. What is heart blockage|b. What is Stroke|c. What is stress#c
+1#Wild Card#300#The ingredient list on this appears in descending order by weight.#a. What is nutrition|b. What is Food Label|c. What are elements#b
+1#Wild Card#400#A measure of body fat based on height and weight.#a. What is BMI (body mass index)|b. What is cholesterol|c. What are triglycerides#a
+1#Wild Card#500#This is an technique people often use to increase productivity and to prioritize their work responsibilities.#a. What is Calendar|b. What is appointment|c. What is time management#c
+2#Diet and Conditions#100#It is recommended to limit this mineral from your diet if you have high blood pressure.#a. What is Iron|b. What is Sodium|c. What is Calcium#b
+2#Diet and Conditions#200#This type of blood cholesterol is considered healthy.#a. What is HDL|b. What is LDL|c. What are triglycerides#a
+2#Diet and Conditions#300#This is found in fruit, vegetables, and grains, and can help reduce your risk of heart disease.#a. What is antioxidant|b. What is fiber|c. What are carbohydrates#b
+2#Diet and Conditions#400#This type of fat is produced by a process called hydrogenation and is associated with an increased risk of heart disease.#a. What is trans-fat|b. What is unsaturated fat|c. What is mono saturated fat#a
+2#Diet and Conditions#500#In this condition, plaque hardens and obstructs the blood supply to the arteries of heart and brain#a. What is atherosclerosis|b. What is Multiple sclerosis|c. What is otosclerosis#a
+3#Food Groups#100#This group includes bread, rice, and pasta products and provides you with a quick source of energy.#a. What are carbohydrates|b. What are grains|c. What are confections#b
+3#Food Groups#200#This food group will help to improve bone health and decrease the risk for osteoporosis.#a. What are fruits|b. What is dairy|c. What are grains#b
+3#Food Groups#300#These two food groups are a good source of fiber, Vitamin C, potassium and are lower in calories.#a. What are grains and beans|b. What are dairy and meat|c. What are fruits and vegetables#c 
+3#Food Groups#400#This food group is made up of amino acids and is considered the building blocks of muscle.#a. What is protein|b. What are organic acids|c. What is fat#a
+3#Food Groups#500#This nutrient will keep you full longer and helps with the absorption of certain vitamins.#a. What are minerals|b. What is dietary fat|c. What are lipids#b
+4#Nutrient Groups#100#This is also known as the sunshine vitamin#a. What is Vitamin A|b. What is Vitamin C|c. What is Vitamin D#c
+4#Nutrient Groups#200#The main physiological function of Vitamin K is this#a. What is Coagulation of blood|b. What build bones|c. What protects vision#a
+4#Nutrient Groups#300#This substance receives a 'perfect score' of 100 on the glycemic index#a. What is starch|b. What is glucose|c. What is fruit#b
+4#Nutrient Groups#400#A lack of calcium may cause this disease to occur#a. What is myopia|b. What is obesity |c. What is Osteoporosis#c
+4#Nutrient Groups#500#Carbohydrates are stored in the body as this#a. What are lipids|b. What is glycogen|c. What is nucleic acid#b
+5#Symptoms#100#This condition causes distorted and bizarre thoughts, perceptions, emotions and behavior#a. What is depression|b. What is bipolar syndrome|c. What is schizophrenia#c
+5#Symptoms#200#This condition causes disturbed digestion characterized by nausea, heartburn, pain, gas.#a. What is diabetes|b. What is dyspepsia|c. What is hypertension#b
+5#Symptoms#300#This is a defect of vision characterized by reduced visual capacity in faint light or at night.#a. What is myopia|b. What is nyctalopia |c. What is cornucopia#b
+5#Symptoms#400#This disease leads to progressive memory loss#a. What is Alzheimer|b. What is Anaplasmosis|c. What is Acrophobia#a 
+5#Symptoms#500#This type of complication is triggered due to reaction from foods, insects or medications#a. What is Atopic dermatitis | b. What is Anaphylaxis | c. What is Asthma#b
